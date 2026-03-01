@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# FAISS / Pickle
+*.index
+*.faiss
+*.pkl
+chunks.pkl
+faiss_index.index
+
+# Logs
+*.log
+
+# HuggingFace / API tokens
+.env
+HF_TOKEN
+
+# Ollama models (optional)
+ollama_models/

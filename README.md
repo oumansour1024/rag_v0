@@ -228,7 +228,7 @@ Suitable for:
 # 🏆 Author
 
 Abdellatif Oumansour
-Master Student – Artificial Intelligence
+Master Student – Systèmes d'Information et Systèmes Intelligents
 
 ---
 
